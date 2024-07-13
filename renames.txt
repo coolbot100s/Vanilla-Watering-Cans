@@ -1,0 +1,11 @@
+Bucket:
+Copper Watering Can
+Gold Watering Can
+Diamond Watering Can
+Netherite Watering Can
+
+Water Bucket:
+Copper Watering Can
+Gold Watering Can
+Diamond Watering Can
+Netherite Watering Can
