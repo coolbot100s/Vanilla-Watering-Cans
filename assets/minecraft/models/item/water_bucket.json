@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/bucket",
+	"textures": {
+		"0": "minecraft:item/water_bucket"
+	}
+}

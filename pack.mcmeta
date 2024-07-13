@@ -1,0 +1,10 @@
+{
+	"pack": {
+		"pack_format": 34,
+		"supported_formats": {
+			"min_inclusive": 0,
+			"max_inclusive": 99
+		},
+		"description": "Made for the Dew Drop project"
+	}
+}
